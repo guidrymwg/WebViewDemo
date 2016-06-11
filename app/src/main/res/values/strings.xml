@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="button1_label">Chili Recipe</string>
+    <string name="button2_label">NOAA Tropical Satellite</string>
+</resources>
